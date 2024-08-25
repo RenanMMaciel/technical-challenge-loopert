@@ -44,3 +44,4 @@
 ### Demo Video of the Application
 https://github.com/user-attachments/assets/36dcd05a-b038-4c7a-9f65-f44b26b2714f
 
+  - If you prefer, download the video [here](docs/application.mp4)
