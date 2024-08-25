@@ -1,5 +1,8 @@
 ### DevOps Challenge
 
+### Notes
+  - The official Icecast image suggested by the test document is no longer available, so I chose to use an unofficial image of Icecast.
+
 ### Requirements
   - [Docker](https://docs.docker.com/get-started/get-docker/)
   - [BUTT](https://danielnoethen.de/butt/)
