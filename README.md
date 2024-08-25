@@ -42,8 +42,5 @@
     - You can see the audio started on BUTT being broadcast by the live player.
 
 ### Demo Video of the Application
-  <video controls>
-  <source src="docs/application.mp4" type="video/mp4">
-  </video>
+https://github.com/user-attachments/assets/36dcd05a-b038-4c7a-9f65-f44b26b2714f
 
-  - If you prefer, download the video [here](docs/application.mp4)
