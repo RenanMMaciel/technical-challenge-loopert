@@ -1,0 +1,13 @@
+services:
+  icecast:
+    build: ./icecast
+    container_name: icecast
+    ports:
+    - 8000:8000
+  nginx:
+    build: ./nginx
+    container_name: nginx
+    ports:
+      - 80:80
+    depends_on:
+      - icecast
