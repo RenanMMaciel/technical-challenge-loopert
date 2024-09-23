@@ -4,7 +4,7 @@
   - The official Icecast image suggested by the test document is no longer available, so I chose to use an unofficial [image](https://hub.docker.com/r/moul/icecast) of Icecast. 
 
 ### Requirements
-  - [Git](https://git-scm.com/)
+  - [Git](https://git-scm.com/downloads)
   - [Docker](https://docs.docker.com/get-started/get-docker/)
   - [BUTT](https://danielnoethen.de/butt/)
 
