@@ -1,4 +1,4 @@
-### DevOps Challenge
+### DevOps Challenge Loopert
 
 ### Notes
   - The official Icecast image suggested by the test document is no longer available, so I chose to use an unofficial [image](https://hub.docker.com/r/moul/icecast) of Icecast.
