@@ -11,7 +11,7 @@
 ### Configurations
   - Cloning and accessing the repository:
     ```bash
-    git clone https://github.com/RenanMMaciel/devops-challenge.git && cd devops-challenge
+    git clone https://github.com/RenanMMaciel/technical-challenge-loopert.git && cd technical-challenge-loopert
     ```
 
   - Downloading images, building and up Icecast and Nginx containers.
