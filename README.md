@@ -44,8 +44,3 @@
 
   - Access [localhost:80/stream](http://localhost:80/stream)
     - You can see the audio started on BUTT being broadcast by the live player.
-
-### Demo Video of the Application
-https://github.com/user-attachments/assets/36dcd05a-b038-4c7a-9f65-f44b26b2714f
-
-  - If you prefer, download the video [here](docs/application.mp4)
